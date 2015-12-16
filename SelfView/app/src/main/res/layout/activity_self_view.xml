@@ -20,6 +20,7 @@
         mhwang:picture_src="@drawable/mh_picture">
     </com.mhwang.view.MenuView>
 
+    
     <com.mhwang.view.MenuView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -32,6 +33,7 @@
         mhwang:picture_width="60dp"
         mhwang:picture_src="@drawable/mh_picture">
     </com.mhwang.view.MenuView>
+
 
     <com.mhwang.view.MenuView
         android:layout_width="wrap_content"
