@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">SelfView</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="picture">图片</string>
-    <string name="picture_one">图片1</string>
-    <string name="picture_two">图片2</string>
-</resources>
